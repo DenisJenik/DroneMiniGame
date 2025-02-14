@@ -1,1 +1,2 @@
 # DroneMiniGame
+Drone Mini Games – Delivery Mode – Developed a drone-based delivery mini-game using C++ and OpenGL. Implemented 3D drone control, procedural terrain and obstacle generation, and collision detection. Designed a third-person camera system, package pickup and drop-off mechanics, a minimap for navigation, and directional indicators. Utilized shaders for terrain deformation and visual effects, optimizing gameplay experience.
